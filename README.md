@@ -38,11 +38,11 @@ pnpm run test:cov
 
 ## 📚 High level feature list + Acceptance criteria
 
-- [ ] **Book list**
-  - [ ] `As a user, I want to see a list of books, so that I can learn something new`
-  - [ ] Acceptance criteria
-    - [ ] `Given there are 10 books in the system, a user should view 10 items on the page`
-    - [ ] `Each item should have the following information: book name, author, price and rating`
+- [x] **Book list**
+  - [x] `As a user, I want to see a list of books, so that I can learn something new`
+  - [x] Acceptance criteria
+    - [x] `Given there are 10 books in the system, a user should view 10 items on the page`
+    - [x] `Each item should have the following information: book name, author, price and rating`
 - [ ] **Book detail**
   - [ ] `As a user, I want to see the details of a book, so that I can know what it's about`
   - [ ] Acceptance criteria
