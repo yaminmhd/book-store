@@ -1,0 +1,7 @@
+{
+  "books": [
+    { "name": "Clean code" },
+    { "name": "Pragmatic programmer" },
+    { "name": "Refactoring" }
+  ]
+}

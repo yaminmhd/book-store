@@ -1,8 +1,8 @@
-type Book = {
+export type Book = {
   name: string;
 };
 
-type BookListProps = {
+export type BookListProps = {
   books: Book[];
 };
 
